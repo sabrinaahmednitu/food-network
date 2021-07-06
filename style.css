@@ -1,0 +1,163 @@
+body{
+    font-family: 'Poppins', sans-serif;
+ }
+ 
+ 
+ /*first section css*/    
+ .first-photo{
+    display: flex;
+    padding-left:50px;
+   
+}
+span{
+    color: orange;
+}
+h1{
+    font-size: 80px;
+    color: rgba(53, 49, 49, 0.829);
+}
+.width p{
+    font-size: 20px;
+    color: rgba(53, 49, 49, 0.829);
+}
+.width{
+    width: 50%;
+    color:rgba(66, 61, 61, 0.644);
+    opacity: .3px;
+}
+.button-css{
+        text-decoration:none ;
+        background-image: linear-gradient(orange,rgb(226, 32, 32));
+        padding: 20px 50px;
+        border-radius: 40px;
+        color: white;
+        font-weight:700 ;
+    }
+   
+
+ /* second section css*/
+
+.second-photo{
+   display: flex;
+ }
+.parttwo{
+    background-image:url(img/shapes/7.png) ;
+    background-size: cover;   
+ }
+.width1{
+    width: 50%;
+    color:rgba(66, 61, 61, 0.644);
+    opacity: .3px;
+    margin-top: 173px;
+}
+.width1 p{
+   padding-bottom: 27px;
+   font-size: 20px;
+   line-height: 30px;
+   color:rgba(66, 61, 61, 0.644);
+
+}
+.width1 h2{
+   font-size: 50px;
+   font-weight: 300;
+    color: rgba(53, 49, 49, 0.829);
+
+}
+..width1 a{
+    margin-top: 30px;
+}
+.width2{
+    width: 50%;
+}
+.width2 img{
+    width: 100%;
+}
+
+
+
+/*section part three*/
+
+.ak{
+    text-align: center;
+  
+  }
+  .ak p{
+    font-size: 20px;
+    color:rgba(66, 61, 61, 0.644);
+    line-height: 35px;
+  }
+  .dui{
+      display: flex;
+      margin-left: 50px;
+  }
+  .card-1 img{
+      width: 100%;
+      border-radius: 20px;
+  }
+  .card-1 p{
+        font-size: 20px;
+        color:rgba(66, 61, 61, 0.644);
+        line-height: 35px;
+  }
+  
+  .card-1 {
+      border: 20px;
+      width: 25%;
+      margin: 45px;
+      box-shadow: 10px 10px 20px grey;
+      border-radius: 30px;
+      padding: 20px;
+  }
+  .tin{
+      box-shadow: 10px 10px 20px grey;
+      border-radius: 20px;
+      margin-left:2%;
+      margin-right: 2%;
+      text-align: center;
+  }
+
+ /*menu section*/
+ .menu{
+     display: flex;
+ }
+
+ .picture h2{
+    font-size: 50px;
+    font-weight: 200;
+    color: rgba(53, 49, 49, 0.829);
+    text-align: center;
+ }
+ .picture p{
+    text-align: center;
+    font-weight: 100;
+    color: rgba(53, 49, 49, 0.829);
+ }
+
+ 
+     /*faq section*/
+.faq-section{
+    text-align: center;
+    padding: 10px;
+}
+.faq-section p{
+    text-align: center;
+    font-weight: 100;
+    color: rgba(53, 49, 49, 0.829);
+}
+
+ /*footer section*/
+ .footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-bottom: 50px;
+}
+.footer h2{
+    padding-top: 40px;
+}
+.footer p{
+    padding-bottom: 50px;
+    word-spacing: 5px;
+    font-weight: 100;
+    letter-spacing: 2px;
+}
